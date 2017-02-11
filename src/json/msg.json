@@ -1,0 +1,121 @@
+{
+	"msgList": {
+		"about": [
+			{
+				"type": "header",
+				"text": "企業戦について"
+			},
+			{
+				"type": "text",
+				"text": "ああ あこがれの ボドゲーマスターに"
+			},
+			{
+				"type": "text",
+				"text": "なりたいな ならなくちゃ"
+			},
+			{
+				"type": "text",
+				"text": "ゼッタイなってやるーッ!"
+			},
+			{
+				"type": "text",
+				"text": "申し込みは以下メールアドレスに企業名・チーム名・代表者の名前を送りください"
+			},
+			{
+				"type": "link",
+				"text": "takada_akihiro@cyberagent.co.jp"
+			},
+			{
+				"type": "sub",
+				"text": "詳細"
+			},
+			{
+				"type": "text",
+				"text": "日時: 3月4日 9:00~"
+			},
+			{
+				"type": "text",
+				"text": "場所: 渋谷プライムプラザ 4F Seminar Room A,B"
+			},
+			{
+				"type": "text",
+				"text": "住所: 東京都渋谷区円山町19番1号"
+			},
+			{
+				"type": "link",
+				"text": "プライムプラザの地図はこちら >>",
+				"link": "https://www.cyberagent.co.jp/access_print/id=7037"
+			}
+		],
+		"team": [
+			{
+				"type": "header",
+				"text": "チーム一覧"
+			},
+			{
+				"type": "text",
+				"text": "電脳情報代理人"
+			}
+		],
+		"contact": [
+			{
+				"type": "header",
+				"text": "問い合わせ"
+			},
+			{
+				"type": "text",
+				"text": "部長"
+			},
+			{
+				"type": "link",
+				"text": "nishiyama_yo@cyberagent.co.jp"
+			},
+			{
+				"type": "text",
+				"text": "ホームページ管理人"
+			},
+			{
+				"type": "link",
+				"text": "takada_akihiro@cyberagent.co.jp"
+			},
+			{
+				"type": "text",
+				"text": "世界の坂本"
+			},
+			{
+				"type": "link",
+				"text": "sakamoto_taiki@cyberagent.co.jp"
+			}
+		],
+		"link": [
+			{
+				"type": "header",
+				"text": "リンク集"
+			},
+			{
+				"type": "text",
+				"text": "CAボードゲーム部"
+			},
+			{
+				"type": "link",
+				"text": "https://cabg.amebaownd.com/"
+			},
+			{
+				"type": "text",
+				"text": "gitリポジトリ"
+			},
+			{
+				"type": "link",
+				"text": "https://github.com/bodogebu"
+			},
+			{
+				"type": "text",
+				"text": "sambaizの部屋"
+			},
+			{
+				"type": "link",
+				"text": "http://sambaiz.net/"
+			}
+		]
+	}
+}
