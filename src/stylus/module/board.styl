@@ -1,0 +1,22 @@
+@import './component/tile'
+
+maxTile = 0..15
+
+.board
+	width 640px
+	height 640px
+	margin 0 auto
+	.board_container
+		width 100%
+		height 100%
+		position relative
+	for n in maxTile
+		.pos_{n}
+			width 25%
+			top floor(n / 4) * 25%
+			left ((n % 4)) * 25%
+			position absolute
+	for m in 1..4
+		.dir_{m}
+			.tile_img
+				transform rotate(m * 90deg)

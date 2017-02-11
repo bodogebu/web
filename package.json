@@ -1,0 +1,31 @@
+{
+	"name": "web",
+	"version": "0.1.0",
+	"description": "boardgame website",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/akiHERO/web.git"
+	},
+	"author": "akiHERO",
+	"dependencies": {
+		"react-parallax": "1.2.3",
+		"lodash": "4.17.4"
+	},
+	"devDependencies": {
+		"browserify": "13.3.0",
+		"babelify": "7.3.0",
+		"react": "15.4.2",
+		"react-dom": "15.4.2",
+		"gulp": "3.9.1",
+		"gulp-stylus": "2.6.0",
+		"gulp-webserver": "0.9.1",
+		"gulp-watch": "4.3.11",
+		"gulp-notify": "3.0.0",
+		"gulp-plumber": "1.1.0",
+		"vinyl-source-stream": "1.1.0",
+		"require-dir": "0.3.1"
+	}
+}

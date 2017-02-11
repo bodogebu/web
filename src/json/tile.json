@@ -1,0 +1,39 @@
+{
+	"tileList": [
+		{
+			"type": "about",
+			"text": "企業戦について",
+			"image": "church0",
+			"position": "0",
+			"direction": "0"
+		},
+		{
+			"type": "team",
+			"text": "チーム一覧",
+			"image": "city1",
+			"position": "4",
+			"direction": "2"
+		},
+		{
+			"type": "wait",
+			"text": "使用ゲーム一覧",
+			"image": "road2",
+			"position": "5",
+			"direction": "2"
+		},
+		{
+			"type": "contact",
+			"text": "問い合わせ",
+			"image": "road1",
+			"position": "6",
+			"direction": "0"
+		},
+		{
+			"type": "link",
+			"text": "リンク集",
+			"image": "city9",
+			"position": "7",
+			"direction": "0"
+		}
+	]
+}
